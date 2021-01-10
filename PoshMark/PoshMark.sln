@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poshmark", "Poshmark.csproj", "{457F7564-FBE5-4666-9B5D-3FB86BE13003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{457F7564-FBE5-4666-9B5D-3FB86BE13003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457F7564-FBE5-4666-9B5D-3FB86BE13003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457F7564-FBE5-4666-9B5D-3FB86BE13003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457F7564-FBE5-4666-9B5D-3FB86BE13003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F6C6A7-BC4E-424A-8069-A92ABDAD52CC}
+	EndGlobalSection
+EndGlobal
